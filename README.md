@@ -28,7 +28,7 @@ calcular os valores.
 - HTML5: estrutura da página.
 - CSS3: personalização visual.
 - JavaScript: simulação e cálculos.
-- Imagem: com imagem do projeto
+- Imagem: supermercado-tela.png.
 
 ## 5. Como executar
 
@@ -42,7 +42,7 @@ calcular os valores.
 
 Adicione uma captura de tela da página inicial.
 
-Salvei a imagem na pasta de 'imagem' com o nome
+Salvei a imagem na pasta do projeto com o nome
 supermercado-tela.png.
 
 
