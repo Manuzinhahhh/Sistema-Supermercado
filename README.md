@@ -1,7 +1,4 @@
-# Sistema-Supermercado
-Desafio Trilhas - Desenvolvimento mobile 
-
- 🛒 Simulador de Compras - Supermercado 
+# 🛒 Simulador de Compras - Supermercado 
 
 ## 1. Identificação
 
